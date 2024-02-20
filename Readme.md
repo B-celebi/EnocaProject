@@ -1,4 +1,4 @@
-#Projeye Dair Detaylar
+# Projeye Dair Detaylar
 
 PSQL Bash’te
 Create database cart_api;
